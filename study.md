@@ -27,14 +27,14 @@ postgessql
 
 -----------  语言 -------------
 
-C：
+C：              
 
-JAVA: spring 全家桶
+JAVA: spring 全家桶              大数据： hive, hadoop, storm 等
 http://www.liaoxuefeng.com/
 
-GO :  中间件 gin, grpc，gorm
+GO :  中间件 gin, grpc，gorm      云计算
 
-python：
+python：                        数据统计
 http://www.liaoxuefeng.com/
 
 ----------------- 中间件 ---------------
