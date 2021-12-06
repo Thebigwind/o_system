@@ -19,5 +19,7 @@ block号 = C x(Heads x Sectors) + H x Sectores + S
 
 电梯算法
 ![img_1.png](img_1.png)
+整理
+![img_2.png](img_2.png)
 
 
