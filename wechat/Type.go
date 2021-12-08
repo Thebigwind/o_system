@@ -10,5 +10,5 @@ type RespWXSmall struct {
 	ErrMsg     string `json:"errMsg"`      //错误信息
 }
 
-const AppId = "wxd9eed34fc715404b"
-const AppSecret = "ba67f62a1fbb45e390722799584e36c5"
+const AppId = "xx"
+const AppSecret = ""
